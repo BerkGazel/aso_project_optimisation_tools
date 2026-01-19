@@ -134,7 +134,6 @@
         callback : callable, optional
             Called with OptimisationResult after each iteration.
 
-Author: ASO Project Template
 Date: 2026
 """
 

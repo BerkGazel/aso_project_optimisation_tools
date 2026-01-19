@@ -6,7 +6,6 @@ Convergence checking and line search implementation for optimization algorithms.
 Provides convergence criterion checking (KKT conditions) and Strong-Wolfe line search
 for finding optimal step sizes.
 
-Author: ASO Project Template
 Date: 2026
 """
 

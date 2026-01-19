@@ -12,7 +12,6 @@ Includes:
 
 Each problem includes objective function, constraints, and gradient calculations.
 
-Author: ASO Project Template
 Date: 2026
 """
 

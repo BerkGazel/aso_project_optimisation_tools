@@ -25,7 +25,6 @@
             Number of iterations performed if converged, -1 if iteration limit
             exceeded without convergence.
 
-        Author: ASO Project Template
         Date: 2026
 """
 

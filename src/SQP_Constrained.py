@@ -56,7 +56,6 @@
                Springer. Chapters 12-18.
         .. [2] Optimisation_Ch_4.pdf - SQP algorithms and Quasi-Newton methods.
         
-Author: ASO Project Template
 Date: 2026
 """
 
