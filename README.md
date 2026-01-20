@@ -1,1 +1,1 @@
-Hey This is new project
+Hey, this is a new project!
